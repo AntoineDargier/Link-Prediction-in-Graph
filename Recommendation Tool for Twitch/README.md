@@ -4,7 +4,7 @@
 Create a recommendation tool for Twitch using link prediction in graph
 
 ### Language
-````Python```
+```Python```
 
 ### Contents
 1. Problem definition
