@@ -14,7 +14,7 @@ Create a recommendation tool for Twitch using link prediction in a graph
 5. GNN method
 6. Evaluation
 
-### Librairies
+### Libraries
 * ```networkx```
 * ```numpy```
 * ```matplotlib```
